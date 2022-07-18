@@ -1,2 +1,5 @@
 # PSone_LCD_Screen_Info
- Information regarding PSone LCD screen maintenance and repair.
+
+This is a collection of information regarding PSone LCD screen maintenance and repair that I've performed.
+
+Please visit the [Wiki](https://github.com/jeffqchen/PSone_LCD_Screen_Info/wiki) for all the write-ups.
