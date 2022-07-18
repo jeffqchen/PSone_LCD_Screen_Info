@@ -1,4 +1,4 @@
-# PSone_LCD_Screen_Info
+# PSone LCD Screen Maintenance & Repair Guides
 
 This is a collection of information regarding the PSone LCD screen maintenance and repair that I've performed.
 
